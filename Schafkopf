@@ -1,0 +1,265 @@
+############  Schafkopf Merkzettel ############
+
+Bedienen (Reihenfolge)
+    * erste Farbe
+    * Trumpf
+    * alles andere
+
+Namen
+    Eichel Ober     = Der Alte
+    Gras Ober       = Der Blaue
+    Herz Ober       = Der Herzige
+    Schelle Ober    = der Schellige
+    Eichel Ass      = Die Alte
+    Grass Ass       = Die Blaue
+    Herz Ass        = Herzass
+    Schell Ass      = Die Bumbs / die Hundsgefickte
+    Herz 9,8,7      = Spatzen 
+    Ass             = Sau    
+  Ruf-Farbe
+    Alte            = Eichel
+    Blaue           = Gras
+    Bumbs           = Schelle
+
+Stärke
+    Ober    in Eichel, Gras, Herz, Schelle
+    Unter   in Eichel, Gras, Herz, Schelle
+    Ass     in Eichel, Gras, Herz, Schelle
+    Zehn    in Eichel, Gras, Herz, Schelle
+    König   in Eichel, Gras, Herz, Schelle
+    Neun    in Eichel, Gras, Herz, Schelle
+
+Augen
+    Ass (Sau)   = 11 Augen
+    10          = 10 Augen
+    König       = 4 Augen
+    Ober        = 3 Augen
+    Unter       = 2 Augen
+    9,8,7       = 0 Augen
+
+Sauspiel (2:2)
+    Trumpf = Alle Ober, alle Unter, alle Herzen
+    Ruf-Farbe = Partner ist, der das Ass hat
+        Alte    =Eichel
+        Blaue   =Gras
+        Bumbs   =Schelle
+    Nichtspieler = erst Ruf-Farbe legen
+    Spieler = erst Trumpflegen
+
+Wenz (1:3)
+    Trumpf = nur Unter
+
+Solo (1:3)
+    Trumpf: Ober, Unter und angesagte Farbe (statt Herzen)
+
+############  Schafkopf ############
+
+Regelwerk
+    * https://www.sauspiel.de/schafkopf-lernen
+    * https://de.casinotoplists.com/schafkopf
+
+* Langes Blatt: 4 Spieler je 8 Karten, 32 Karten, 120 Augen (= Punkte) gesamt
+* Kurzes Blatt: 3 Spieler je 6 Karten (ohne 7er & 8er), 18 Karten
+
+Grundlegendes:
+    * Trumpf: Welche karten Trumpf sind entscheided Spielart
+    * Bedienen: Man muss die erste gespielte Farbe oder Trumpf spielen wenn man Karte hat.
+    * Abwerfen: Hat man Farbe nicht darf man frei wählen (gewinnt nie Stich)
+    * Stechen: Hat man gespielte Farbe nicht darf man Trumpf spielen
+    * Stich: Es gewinnt der Spieler mit der höchsten Karte der Farbe. Er bekomt Stich (alle 4 Karten) und darf als Erster in die nächste Runde ausspielen
+        * Trumpf sticht Trumpf
+        * Trumpf sticht Farbe
+        * Farbe kann nur gleiche Farbe stechen
+
+    * Wenn alle Karten gespielt wurden, werden Augen der Karten (=Punkte) gezählt. Partei mit den meisten Augen gewinnt.
+        * Gewinnerpartei (Spieler) mindestens 61 Augen
+        * Gegener (Nichtspieler) gewinnt bei 60 Augen 
+        * "Schwarz" wenn eine Partei alle Stiche gewonnen hat
+        * "Schneider" wenn man mindestens 1 Stich gewonnen hat
+        * "Schneider frei" ist mal Spieler mit 31 Punkten, als Nichtspieler mit 30 Punkten
+
+Spielablauf: 
+    * Spieler sitzen im Kreuz zueinander
+    * Jeder Spieler bekommt 8 Karten (erste Runde 4, zweite Runde 4)
+        * Sonderregel: klopfen oder legen - erst 4 Karten, durch klopfen signalisieren, dass die restlichen 4 Karten aufgenommen werden
+
+    * Reihenfolge: Vom Geber im Uhrzeigersinn = Spieler hinter Kartengeber fängt an 
+        * Ausspieler = spielt erste Karte
+        * Mittelhand = zweiter oder dritter Spieler
+        * Hinterhand = spiel letzte Karte
+    * Spieler geben an ob sie spielen wollen ("I däd"/"I will" ) oder nicht spielen wollen ("weiter")
+        1) Einer will spielen, alle sind einverstanden ("weiter") = Spieler sagt Spielart an
+        2) Ein nachfolgender Spieler will auch spielen ("I dad a") 
+            * Wert des Spiels entscheided
+                1. Sie 
+                2. Solo Tout
+                3. Wenz Tout
+                4. Solo
+                5. Wenz
+                6. Rufspiel (Sauspiel)
+            * Spieler können sich hochreizen (überbieten)
+            * Wenn zwei Spieler das Gleiche spielen wollen hat der näher am Geber is das Vorrecht 
+        3) Keiner will spielen = Es wird neu gemischt.
+
+Begriffe
+    Reinschmieren       = Viele Punkte (10er, Asse) spielen, entweder für Mit- oder Gegenspieler
+    Frei von Farbe      = Man hat Karte mit der Farbe
+    Abspatzen           = Von Farbe freispielen
+    Fehlfarbe           = Wenn Farbe nicht mehr auf Hand
+
+Karten
+* Bayrisches Blatt:
+    Herren/Bauern bestehen aus Ober und Unter
+        Ober    = Damen
+        Unter   = Buben
+        Ass
+        Zehn
+        König
+        Neun
+
+    Farben:
+        Eichel  = Kreuz
+        Gras    = Pik
+        Herz
+        Schelle = Karo
+
+* Stärke
+        Ober    in Eichel, Gras, Herz, Schelle
+        Unter   in Eichel, Gras, Herz, Schelle
+        Ass     in Eichel, Gras, Herz, Schelle
+        Zehn    in Eichel, Gras, Herz, Schelle
+        König   in Eichel, Gras, Herz, Schelle
+        Neun    in Eichel, Gras, Herz, Schelle
+    Beispiel: Eichel sticht Schelle mit selben Symbol
+
+* Wert
+    Ass (Sau)   = 11 Augen
+    10          = 10 Augen
+    König       = 4 Augen
+    Ober        = 3 Augen
+    Unter       = 2 Augen
+    9,8,7       = 0 Augen
+* Namen
+    Eichel Ober     = Der Alte
+    Gras Ober       = Der Blaue
+    Herz Ober       = Der Herzige
+    Schelle Ober    = der Schellige
+    Eichel Unter    = 
+    Gras Unter      = 
+    Herz Unter      =
+    Schelle Unter   =
+    Eichel Ass      = Die Alte
+    Grass Ass       = Die Blaue
+    Herz Ass        = Herzass
+    Schell Ass      = Die Bumbs / die Hundsgefickte
+    Herz 9,8,7      = Spatzen 
+
+    Sau             = Ass
+    "Blättchen"     = Asse, Könige, Zahlen
+
+
+ 
+
+1 // Rufspiel (Sauspiel)
+    * 2 gegen 2
+    * nur zu viert spielbar
+    * Spielmacher (ruft Ass) bestimmt Ass-Farbe (Ruf-farbe) 
+        * Alte=Eichel, Blaue=Gras oder Bumbs=Schelle (darf nicht Herz sein, da Trumpf)
+        * darf Ass mit Farbe nicht selbst haben, darf nicht alle Asse haben
+        * muss mind. 7,8,9,10 oder König in Farbe haben
+    * "Nichtspieler" suchen Ass
+    * Mitspieler (Partner) ist der mit dem entsprechenden Ass
+       * gibt es erst mit legen der Karte zu erkennen
+       * muss Ass legen wenn Farbe angespielt wird (Sonderregel: außer man hat 4 zusätzliche Karten von Farbe)
+    * Trumpf: Alle Ober, alle Unter, alle Herzkarten.
+        * Stärke (Ober, Unter; Eichel, Gras, Herz, Schelle)
+            1. Eichel Ober 
+            2. Gras Ober
+            3. Herz Ober
+            4. Schelle Ober
+            5. Eichel Unter
+            6. Gras Unter
+            7. Herz Unter
+            8. Schelle Unter
+            9. Herz Ass
+            10.Herz 10
+            11.Herz König
+            12.Herz 9
+            13.Herz 8
+            14.Herz 7
+### Tips
+    * Als Nichtspieler immer mit gesuchter Farbe rauskommen um das Ass zu suchen
+    * Als Spieler mit dem gesuchten Ass als Trumpd rauskommen
+    * Immer dem jeweiligen Teampartner "reinschmieren"
+
+2 // Wenz
+   * Solo = 1 gegen 3
+   * Trumpf: nur Unter
+            1. Eichel Unter
+            2. Gras Unter
+            3. Herz Unter
+            4. Schelle Unter
+
+2 // Geier 
+    * Solo = 1 gegen 3
+    * Trumpf = nur Ober
+            1. Eichel Ober
+            2. Gras Ober
+            3. Herz Ober
+            4. Schelle Ober
+
+3 // (Farb-)Solo
+    * Solo = 1 gegen 3 (Gegner)
+    * Statt Herzen wird andere Farbe Trumpf
+        Spieler muss mindestens eine Karte von Farbe haben
+        * Ansage "Eichel Solo", "Grün Solo" oder "Schellen Solo"
+    * Trumpf: Ober, Unter und angesagte Farbe
+            1. Eichel Ober 
+            2. Gras Ober
+            3. Herz Ober
+            4. Schelle Ober
+            5. Eichel Unter
+            6. Gras Unter
+            7. Herz Unter
+            8. Schelle Unter
+            9. <Farbe> Ass
+            10.<Farbe> 10
+            11.<Farbe> König
+            12.<Farbe> 9
+            13.<Farbe> 8
+            14.<Farbe> 7
+    * Gegner können Stiche zusammenwerfen
+
+4 // Tout (franz. "Alles")
+    * Bayrische Ausprache "Du"
+    * Wenn ein Spieler erwartet alle Stiche zu machen
+    * Ansage "Solo Tout", "Wenz Tout"
+    * muss angesagt werden bevor die erste Karte auf dem Tisch liegt
+
+5 // Sie
+    * "Sie" is quasi Steigerung von Tout ("Du")
+    * Wenn ein Spieler alle Ober und und Unter hält = exterm unwahrscheinlich
+    * Alle Karten werden auf Tisch gelegt und Spiel gilt als gewonnen
+
+5 // Ramsch 
+    * Pflichtramsch oder nachdem keiner spielen will
+    * Jeder gegen jeden
+    * Ziel ist möglich wenige Punkte zu erreichen
+    * Spieler mit meisten Punkten verliert
+
+    * "Durchmarsch"      = alle Stiche holen
+    * "Jungfrau"        = keinen Stich bis zum Schluss, 1. Jungfrau x2, 2.Jungfrau x4
+
+    # Tips
+        * Hohe Trümpfe spielen
+        * Anderen "reinschmieren"
+
+
+
+
+
+
+
+
+
+
